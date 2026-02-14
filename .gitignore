@@ -1,0 +1,29 @@
+# Python system files
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+
+# PyInstaller & Build files
+build/
+dist/
+*.spec
+temp_installer.iss
+
+# Installation and Release outputs
+setup_output/
+releases/
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Others
+compiler
