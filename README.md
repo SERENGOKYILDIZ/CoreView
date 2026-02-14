@@ -5,6 +5,10 @@
 
 Designed for professionals, CoreView launches instantly in a maximized window, providing an immersive and distraction-free environment for reading and reviewing Markdown documentation.
 
+## Downloads
+
+[![Download CoreView](https://img.shields.io/badge/Download-CoreView_v1.0.0-blue?style=for-the-badge&logo=windows)](https://github.com/SERENGOKYILDIZ/CoreView/releases/download/v1.0.0/CoreView-v1.0_Setup.exe)
+
 ## Features
 
 *   **High-Performance Rendering**: Powered by Chromium (via QWebEngine) for fast and accurate Markdown display.
